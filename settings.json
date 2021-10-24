@@ -1,0 +1,9 @@
+{
+    "name": "Mercury Election DApp",
+    "blocks": {
+        "/blockchain/flow": true,
+        "/blockchain/flow/cadence": true,
+        "/framework/vanilla": true,
+        "/category/foundation/core-ballot": true
+    }
+}
